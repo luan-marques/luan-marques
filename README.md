@@ -1,4 +1,4 @@
-## Prazer, me chamo Luan Marques.
+## Olá! Me chamo Luan Marques
 
 - Graduando em Análise e Desenvolvimento de Sistemas
 - Estudando linguagens React.js e Node.js
