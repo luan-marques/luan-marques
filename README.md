@@ -3,6 +3,9 @@
 - Graduando em Análise e Desenvolvimento de Sistemas
 - Estudando linguagem React.js
 
+<br>
+<br>
+
 <div>
   <a href="https://github.com/luan-marques">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=luan-marques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
