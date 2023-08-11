@@ -1,7 +1,7 @@
 ## Olá! Me chamo Luan Marques
 
 - Graduando em Análise e Desenvolvimento de Sistemas
-- Estudando linguagens React.js e Node.js
+- Estudando linguagem React.js
 
 <div>
   <a href="https://github.com/luan-marques">
