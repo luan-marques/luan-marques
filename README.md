@@ -1,6 +1,6 @@
 ## Olá! Me chamo Luan Marques
 
-- Graduando em Análise e Desenvolvimento de Sistemas
+- Graduado em Análise e Desenvolvimento de Sistemas
 - Estudando linguagem React.js
 
 <br>
