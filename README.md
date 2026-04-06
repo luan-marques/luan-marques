@@ -7,13 +7,6 @@
 <br>
 <br>
 
-<div>
-  <a href="https://github.com/luan-marques">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=luan-marques&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-marques&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-
 <div style="display:  incline_block"><br>
 
 <img align="center" alt="tigas-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
